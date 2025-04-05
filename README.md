@@ -1,4 +1,5 @@
 <header>
+<!-- trigger ci.yml -->
 
 <!--
   <<< Author notes: Course header >>>
